@@ -9,10 +9,13 @@ Ie, C++, Vulkan/OpenGL, Ue, video editing, norse mythology, etymology.
 
 - 📫 How to reach me
 Discord: leviathancat
-
-- 😄 Pronouns: he
   
-- ⚡ Fun fact: I use to only stream Alien: Isolation on my abandoned, and forgotten, mixer page.
+Fun fact: I use to only stream Alien: Isolation on my abandoned, and forgotten, mixer page.
+
+
+
+As I have a lot of projects on the go all the time, my current priorities right now are:
+Vulpes, SIREN, Refur (Software), and a few Unreal Engine 4.27 projects.
 
 <!---
 sephiraa/sephiraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
